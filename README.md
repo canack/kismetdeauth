@@ -1,5 +1,8 @@
 # kismetdeauth
-Kismet plugin for deauth all AP
+Kismetdeauth is a kismet plugin for deauth all AP
+
+kismetdeauth working with kismetclient.
+Please visit for more: https://github.com/PaulMcMillan/kismetclient
 
 Installation:
 ```sh
