@@ -6,7 +6,7 @@ Please visit for more: https://github.com/PaulMcMillan/kismetclient
 
 Installation:
 ```sh
-$ git clone https://github.com/EnginAcikgoz/kismetdeauth.git
+$ git clone https://github.com/canack/kismetdeauth.git
 $ cd kismetdeauth
 $ chmod +x kismetdeauth.py
 ```
